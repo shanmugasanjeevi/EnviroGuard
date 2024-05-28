@@ -7,6 +7,7 @@ Introduction
 Material-used
 System-Components
 Work-flow
+
 Introduction
 Underwater plastics are a significant environmental issue, as they can harm marine life, contaminate water sources, and accumulate in the food chain. This project addresses this issue by developing a UUV that can autonomously detect and remove plastics from underwater environments.
 
